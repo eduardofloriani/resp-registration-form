@@ -1,2 +1,2 @@
 # respRegistrationForm
-Responsive registration form created with HTML/CSS.
+Front-end of a responsive registration form created with HTML/CSS
